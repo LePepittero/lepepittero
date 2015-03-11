@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package javaapplication2;
+package admin;
 
 /**
  *
  * @author Aluno
  */
-public class JavaApplication2 {
+public class ShowdomilhaoLorenzzo {
 
     /**
      * @param args the command line arguments
