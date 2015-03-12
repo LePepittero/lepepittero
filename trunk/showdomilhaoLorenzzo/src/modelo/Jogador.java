@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package admin;
+package modelo;
 
 /**
  *
  * @author Aluno
  */
-public class ShowdomilhaoLorenzzo {
+public class Jogador {
 
     /**
      * @param args the command line arguments
